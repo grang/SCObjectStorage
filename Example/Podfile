@@ -1,12 +1,6 @@
+platform :ios, '8.0'
 use_frameworks!
 
 target 'SCObjectStorage_Example' do
   pod 'SCObjectStorage', :path => '../'
-
-  target 'SCObjectStorage_Tests' do
-    inherit! :search_paths
-
-    pod 'Kiwi'
-  pod 'FBSnapshotTestCase'
-  end
 end

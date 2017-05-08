@@ -7,6 +7,7 @@
 //
 
 #import "SCViewController.h"
+#import "SCObjectStorage.h"
 
 @interface SCViewController ()
 
@@ -18,6 +19,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    
+    
 }
 
 - (void)didReceiveMemoryWarning
