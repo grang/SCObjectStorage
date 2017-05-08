@@ -7,7 +7,6 @@
 //
 
 #import "SCViewController.h"
-#import "SCObjectStorage.h"
 
 @interface SCViewController ()
 
