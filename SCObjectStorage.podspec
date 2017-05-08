@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SCObjectStorage'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of SCObjectStorage.'
   s.platform         = :ios, '8.0'
   s.requires_arc     = true
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'alex.huang.guo@gmail.com' => 'alex.huang.guo@gmail.com' }
-  s.source           = { :git => 'https://github.com/grang/SCObjectStorage.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/grang/SCObjectStorage.git', :tag => '0.1.1' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
