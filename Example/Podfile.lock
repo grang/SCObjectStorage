@@ -1,0 +1,16 @@
+PODS:
+  - SCObjectStorage (0.1.0)
+
+DEPENDENCIES:
+  - SCObjectStorage (from `../`)
+
+EXTERNAL SOURCES:
+  SCObjectStorage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SCObjectStorage: 535b356ac06440a7dd0577157e5cec9424218905
+
+PODFILE CHECKSUM: 6623b4b9d1c058d854544e83c1abd41dfbecffa5
+
+COCOAPODS: 1.2.1

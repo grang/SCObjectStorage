@@ -1,0 +1,6 @@
+framework module SCObjectStorage {
+  umbrella header "SCObjectStorage-umbrella.h"
+
+  export *
+  module * { export * }
+}
